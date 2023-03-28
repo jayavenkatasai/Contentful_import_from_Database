@@ -1,0 +1,514 @@
+title,module,order
+Welcome to Reboot111,1,1
+What’s Inside,1,2
+The Fab Four,1,4
+Set Your Goal,1,5
+Get Connected,1,7
+Notifications,1,8
+Why Subscribe?,1,101
+You Can Do This!,1,102
+You're Doing It!,1,103
+Say Goodbye to High BMI,1,2109
+Mega Quiz,1,2205
+"In the Kitchen: Blueberry, Prune, Fig & Basalmic Dressing",1,2305
+Breathe Free,1,2713
+Enter Your Waist-to-Height,1,3103
+Sizing-Up Your BMI,1,3204
+Keep an Eye on BMI,1,6503
+A Measured Approach,1,6505
+Track Your Vax,1,9701
+Thank you for Subscribing,1,9801
+Thank you for Subscribing Annual,1,9802
+Free to Breathe,1,9803
+Day 2 Hurray,1,9905
+Day 27 Wow,1,9906
+Day 28 Celebrate,1,9907
+Today's the Day,1,9908
+5 Days Free,1,9909
+Smoke Check,1,9910
+Patch-Less,1,9911
+60 Days Free,1,9912
+Check-In and Quit,1,9913
+Nicotine Free,1,9914
+Quit Check,1,9915
+Whoo-hoo! 30 Days!,1,9916
+"1,2,3 Breathe",1,9917
+YOU DID IT!,1,9918
+Breathe Free Club,1,9919
+120 Days Free,1,9920
+Half Way There!,1,9921
+Fantastic 45,1,9922
+Bupropion and Its Effects,1,9923
+Sample Audio Lesson,1,10000
+Welcome Back,2,1
+Slow and Steady,2,2
+The 5 Pillars,2,3
+5 Pillars: Physical Activity,2,4
+Talk to Your Doc,2,5
+The Right Time,3,1
+5 Pillars: Nutrition,3,2
+Daylight Eating,3,3
+You Stepped Up!,3,11
+One Small Step!,3,12
+Eat When the Sun Is Up,3,20
+App Review,3,23
+33 Things for Your Brain,4,1
+Brain + BP,4,2
+Inspiratory Resistance,4,3
+Brain + Cholesterol,5,1
+Cholesterol Lowdown,5,2
+Control Cholesterol,5,3
+Happy Cholesterol,5,4
+5-Day Survey,5,5
+Consider Subscribing,5,14
+Brain + BMI,6,1
+To BMI or Not to BMI,6,2
+Measure Up!,6,3
+Brain + Blood Sugar,7,1
+Well Measured,7,2
+Mind Your Middle,7,3
+Role of Supplements,8,1
+Aspirin Actually,8,2
+{{ medication_goal }} Medications,8,3
+5 Pillars: Stress,9,1
+Brain + Stress,9,2
+The ABCs of ASA,9,3
+Insulin Resistance Intro,10,1
+Reverse Pre-Diabetes,10,2
+An Aspirin a Day,10,3
+The ASA Way,11,1
+5 Pillars: Brain Health,11,2
+Brain Games,11,3
+Brain Game Time Log,11,11
+From the Heart,11,12
+Take It to Heart,11,13
+Chocolate Strawberries,11,14
+5 Pillars: Sleep,12,1
+Catching Your Zzzs,12,2
+Sweet Dreams,12,3
+Sleep Quality,12,4
+Captain’s Sleep Log,12,6
+Grant Sleep Permissions,12,7
+Counting Sheep,12,8
+Story 6+2s - history,13,1
+What 6+2s Are,13,2
+Benefits of Stress Management,14,1
+Stress Less Check-In,14,2
+Let's Talk About Stress,14,3
+Get Up from Sitting,14,4
+BP Matters,15,1
+BP Under Control,15,2
+BP for Good Measure,15,3
+Under Pressure,15,4
+Measure BP,15,11
+Re-Flu,15,13
+Multivitamins Intro,16,1
+Magic Multivitamins,16,2
+Multi Must-Haves,16,3
+The Right Amount,16,4
+10K Walking Buddies,16,5
+Rejuv & Regen,16,6
+Reboot Magna-Boost,16,7
+ASA Check-in,17,1
+ASA Tips,17,2
+Cholesterol Recap,17,11
+High LDL,17,12
+Stress is a 6 Normals +2,18,1
+Spiritual Stress Relief,18,2
+Eat to Succeed,19,2
+Let's Get Physical,19,3
+Not Doing Eat Sun,19,7
+Sleep Review,20,1
+Sweet Sleep,20,2
+"Little Sleep, Lots of Aging",20,3
+Sleep Aging,20,4
+Debug Your Sleep,20,5
+M to ZZZ,20,6
+LDL Recall,20,7
+CoQ10 Out of 10,21,1
+We Heart CoQ10,21,2
+An Energetic Quiz,21,3
+Track 'Em All!,21,11
+Time to Track,21,12
+Mutual Love,22,1
+Foods that Love You,22,2
+Mighty Omega-3,22,3
+Mega Omega-3,22,4
+Mega Tips,22,5
+Omega-6 vs Omega-3,22,6
+Not Doing Brain,22,7
+BP on Track,22,11
+Track BP,22,12
+BP Normal,22,13
+Elevated BP,22,14
+Stage 1,22,15
+Stage 2,22,16
+Low BP,22,18
+Mediterranean Love,23,1
+Eat “Mediterranean”,23,2
+Mediterranea-Yummm!,23,3
+Blueberry Fig Dressing,23,4
+BP Normal 2,23,11
+BP Elevated 2,23,12
+Stage 1 BP 2,23,13
+Stage 2 BP 2,23,14
+Hypertensive Crisis 2,23,15
+Low BP 2,23,16
+The Beauty of IMF,24,1
+Intermittent Fasting,24,3
+Fasting with Benefits,24,4
+Why Not Give it a Try?,24,5
+Smoke Signals,25,1
+Want to Give up Tobacco?,25,2
+Smoke or Vape,25,3
+Escape Vaping,25,5
+The Age of Smoking,25,6
+Recall Nicotine,25,7
+Update Immunity,26,2
+Vax 50+,26,3
+Vax under 50,26,4
+Hello Immunity,26,5
+It’s Quittin’ Time,26,11
+Smokeology,26,12
+Trade in Smoking,26,13
+Power of Perception,27,1
+Peace of Mind-fulness,27,2
+When Stress Goes Bad,27,3
+Daily Meditation,27,4
+Glucose Brain Drain,27,5
+Get Ready to Be Younger,27,11
+5-Part Quit Plan,27,12
+High General Stress,27,14
+Low Level of Stress,27,15
+Elevated Stress,27,16
+Lean Mean Creatine,28,1
+Creacharged,28,2
+Your Daily Multi,28,4
+Wanna Track Your Creatine?,28,5
+Go Fish,29,1
+Harissa Salmon How-To,29,2
+Harissa-Baked Salmon,29,3
+Harissa Spice How-To,29,4
+Harissa Spice Blend,29,5
+Crack the Nut Code,30,1
+Nutty and Sweet,30,2
+To Be or Nut To Be,30,3
+Sleep & Mood,30,4
+Veggie Cross Off,31,1
+Veggie Impact,31,2
+Veggiegate,31,3
+Ready to Track?,31,11
+Refresh your BP,32,1
+BP Once-Over,32,2
+Middle Management,32,3
+BP Ready,32,11
+The Value of Money,33,1
+Cents and Sensibility,33,2
+Money Talk,33,3
+Get Financially Fit,33,4
+Financial Stress 2,33,12
+Financial Stress 3,33,13
+Financial Stress 4,33,14
+Eat—Fast—Repeat,34,1
+Work Up a Sleep,35,2
+Dozing Dos,35,3
+Take a Shot,35,4
+Blood Glucose + Allulose,36,1
+Insulin in Order,36,2
+Ready to Quit?,36,11
+Take Care with Alcohol,37,1
+Cheers to Years!,37,2
+Alcohol Intake,37,3
+Drink in Longevity,38,1
+H2 Oh!,38,2
+Stay Afloat,38,3
+"Sugar, Sugar",39,1
+"Sugar, Alcohol—or Both?",39,2
+Sweet AND Healthy,39,3
+Vax Up,40,1
+Vax Up-Date,40,2
+Get a Grip,40,3
+Immunity Check,40,5
+Grains: The Whole Truth,41,1
+Whole Grains Love You,41,2
+Love Whole Grains,41,3
+Cruciferous Reload,41,4
+Skin Deep,42,1
+Skinconceptions,42,2
+Looking Good,42,3
+Ancient Nutrient,43,1
+ACV and Your Health,43,2
+Add a Little ACV,43,3
+Learn to Love Legumes,44,1
+What Legumes Can Do,44,2
+Good for You,44,3
+Baked Beans,44,4
+Age-Less Tunes,45,1
+Hit Record,45,2
+Musical Impacts,45,3
+Engineer Your Biome,46,1
+Trust Your Gut,46,2
+Benevolent Bacteria,46,3
+Boost Your Biome,46,4
+Bold Broccoli,47,1
+Brilliant Broccoli,47,2
+Broccolicious,47,3
+Bean & Broccoli Salad,47,4
+Broccoli Satay,47,5
+Mike's Q&A - Daily Decisions,48,1
+Ask Dr. Mike,48,2
+Amazing Melatonin,48,3
+Beyond ZZZs,48,4
+It’s Allulose Day!,49,1
+A Sweet Escape,49,2
+Call in the Substitute,49,3
+Sweet Tips,49,4
+Raisin Reduction,49,5
+Deeper than Skincare,50,1
+Deeper Options,50,2
+Lines of the Times,50,3
+Fill In the Lines,50,4
+Dive Into nHBOT,51,1
+Oxygen Impact,51,2
+One Stop nHBOT,51,3
+Update to Motivate,51,11
+Find Out About Fiber,52,1
+Fiber Fights Diseases,52,2
+The High-Fiber Diet,52,3
+H2O Yeah!,52,4
+Recycle or Clear-Out,53,1
+Auto Magic,53,2
+Induce It or Lose It,53,3
+Skin Check,54,1
+Skin You're In,54,2
+Q & A - Too Much Fiber?,55,1
+Bacteria Brush-up,55,2
+Hit Rewind,55,3
+Busy B Vitamins,56,1
+Big B Benefits,56,2
+Whole Grains Revisited,56,3
+"Ready, Set, Quit",56,11
+Fats: Bad News & Good,57,1
+How to Shop for Fats,57,2
+"Now, the Good News",57,3
+Re-cappuccino,58,1
+Sweet Again,58,3
+ACV Recap,58,4
+Hot in Here,59,1
+Infra-Sweat,59,2
+Turn up the Dial,59,3
+Vax Facts,60,1
+Vax Impacts,60,2
+Vax Life Hacks,60,3
+Resistance Training Day!,61,1
+Resist Aging,61,2
+Hard to Resist Tips,61,3
+Quizistance,61,4
+Progress for Success,61,11
+Q & A – Mitigation Plan,62,1
+Broccoli Brush Up,62,2
+Q & A – Exercise & Age,63,1
+Auto Recall,63,3
+Integrate vs. Isolate,64,1
+Friends with Benefits,64,2
+Social Steps,64,3
+Cancer and Your Diet,65,1
+Cut Your Cancer Risk,65,2
+Another Look at Fats,65,4
+Dr. Mike's Fav Foods,66,1
+Pesto Green Beans Recipe,66,2
+Plasma Exchange,67,1
+Your Younger Brain,67,2
+Life-Changing Decision,67,3
+Bionic Bodies,68,1
+More Bionic Bodies,68,2
+Bionic Benefits,68,3
+Rebooter's Choice,69,1
+Do-It Doctrine,69,2
+Q & A – Mental Health,70,1
+Money Matters,70,2
+Bad Gluten,71,1
+Fear Not,71,2
+Surprising Metformin,72,1
+Metformin and You,72,2
+Is Metformin for You?,72,3
+"Fruit, Your Best Friend",73,1
+Fruity Favorites,73,2
+Turn On the Red Light,74,1
+Red Light Benefits,74,2
+Keep It Up,74,3
+Welcome to Gattaca,75,1
+Real Life Sci-Fi,75,2
+Clean Your Genes,75,3
+Keep a Clean Kitchen,76,1
+"Clean, Safe Kitchen",76,2
+Vax Science Booster,76,3
+Keep It Up,76,4
+Q & A – Metformin,77,1
+Reviewing TPE,77,2
+Keep Your Teeth,78,1
+Ageless Smiles,78,2
+"Sweet, not a Potato",79,1
+Sweet Potato Delights,79,2
+Sweet Potato Hummus,79,3
+Decidedly Recalling,79,4
+Summing-Up Gluten,80,4
+Keep It Up,81,1
+"Breathe, Resist, Repeat",81,2
+Inspi-ration,81,3
+Back to the Middle,81,11
+The Whole Tooth,82,1
+Keep It Up,82,2
+Keep It Up,83,1
+Amino Amigos,83,2
+Add Acid,83,3
+Metformin Revisited,83,4
+Q & A – Exercise & Rest,84,1
+DNA Replay,84,2
+Microgreens,85,1
+A Little Green,85,2
+The Rap Zone,86,1
+Rap-Up Aging,86,2
+Ready 2 Quit?,86,11
+"Garlic: Food, Medicine",87,1
+Garlic in Your Diet,87,2
+Colorful Is Healthful,88,1
+Finding Flavonoids,88,2
+Join the Resistance!,89,1
+Keep Resisting!,89,2
+Finding Resistance,90,1
+Food for Thought,90,2
+Q&A – Rapamycin,91,1
+Give Tracking A Try,91,11
+Yo-Got It!,92,1
+Be (Para)Sympathetic,92,2
+Spice Up Your Life,93,1
+Never Too Much,93,2
+Curry Your Favor,93,3
+Q & A – Resistant Starch,94,1
+It’s Easy to Eat Green,94,2
+Getting Sweaty,95,1
+Heat It Up,95,2
+Hot & Not Bothered,95,3
+Magic Magnesium,96,1
+Get Your Mg,96,2
+Super Mg,96,3
+Longevity in a Cup,97,1
+Tip Your Barista,97,2
+The Perfect Brew,98,1
+Q & A – Coffee & Cream,98,2
+Exercise Snacking,99,1
+Rhymes With Wine,100,1
+Reversing Your Age,100,2
+Reboot Your Olive Oil,101,1
+Loyal to Olive Oil,101,2
+Turmeric: Take Two,102,1
+Q&A - IMF Soup Recipe,103,1
+IMF Super Soup,103,5
+Pump it Up,104,2
+Whole Health,104,3
+Let’s HIIT It,104,4
+Hot Take,105,2
+"No Pain, Just Gain",105,3
+Overdoing is Over,105,4
+Seeing the Future,106,1
+Eye Spy Benefits,106,2
+Eyes on Diet,107,1
+Eye Spy Tips,107,2
+Champion Yourself,108,1
+Why Advocate?,108,2
+Mind the Gap,109,1
+Standing Up for Care,109,2
+Nothing But a Number,110,1
+Self-Advocacy 101,110,2
+It's Been A While,111,11
+Be Smart about Sugar,112,1
+Manage Your Sugar,112,2
+Take Charge of Sugar,113,1
+Setting Sugar Straight,113,2
+See in Color,114,1
+Rich in Color,114,2
+Time to Quit?,116,11
+Pain Free Reps,105,5
+Chart Your Course,121,11
+Hindsight is 20/20,123,2
+What's Ashwagandha?,268,1
+More Ashwagandha,268,2
+Ashwagandha & You,268,3
+Time to Quit?,296,11
+High Financial Stress,404,17
+Food That Loves You,412,11
+Sun Up Sum Up,412,12
+Sun Up Check-Up,412,13
+Cholesterol Check-Up,434,2
+Raisin Reduction,449,5
+Physical Activity—10K a Day,500,104
+Slow and Steady Text,500,204
+10K Steps Quiz,500,207
+Wanna Track Your Vitamin D?,500,305
+Get Some Vit-D,500,319
+Let's Talk about Medication,500,1213
+Holiday Grief & Loss,500,2201
+End of Test Survey,500,2202
+End of Test,500,2203
+Holidays + Family,500,2204
+Responsible Gifting,500,2205
+Intermittent Fasting Quiz,500,2404
+Creatine Quiz,500,2806
+Sizzle Quizle,500,2906
+BP 2nd Recap,500,3001
+Vitamin D,115,1
+Vitamin D Deficiency,115,2
+Stress Less,504,2
+What to Do Next,505,4
+A Bit More About Reboot,505,7
+Flu Season Ready,505,11
+The Year Flu By,505,12
+"One, Two, Flu",505,13
+Yes Foods,506,1
+No Foods,506,2
+How to Use Good Food,506,3
+A Few Good Foods,506,4
+Haven't Meditated,506,5
+Did Meditate,506,6
+You're Doing Great!,507,2
+You've Learned a Lot,507,3
+So Insightful,507,4
+Step Equivalents,507,5
+Too Much Exercise,507,6
+Track Your Vitamin D,508,2
+Intro to Brain Health,509,2
+Reboot 32+ Ways,509,4
+Milestone 1,510,1
+"10 Days, 10 Yays!",510,3
+10K Steps Recap,510,4
+10 Day Survey,510,5
+Check-In on Your Steps,510,6
+Get those step credits!,510,7
+Review Your Steps,510,8
+Feedback,513,3
+Sun Fun,600,2
+Sun Safety First,600,4
+Sun Scream,600,5
+Walking 10k,600,203
+Sunny Daze,600,2903
+Salmon Test Video,601,51
+Grant Sleep Permissions,0,0
+Walk {{format step_goal 'n0' }} Steps,0,0
+Enjoy Your Trial,0,0
+Trial Reminder,0,0
+Trial Ending Soon,0,0
+Achievement Weekly Step Goal,0,0
+saiii,1,422
+sai,44,422
+testt,22,422
+test,44,422
+test,44,422
+test11,1,422
+saai,44,422
+j,4,5
+j,4,5
+,0,0
+,0,0
+,0,0
+,0,0
