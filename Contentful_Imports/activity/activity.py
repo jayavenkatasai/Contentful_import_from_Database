@@ -5,10 +5,10 @@ from contentful_management import Client
 # Database Connection
 conn = pyodbc.connect(
     'DRIVER={ODBC Driver 17 for SQL Server};'
-    'SERVER=DESKTOP-HME0A24;'
-    'DATABASE=GAR;'
-    'UID=venkat;'
-    'PWD=Password@123;'
+    'SERVER=server_name;'
+    'DATABASE=database_name;'
+    'UID=user_id;'
+    'PWD=Password;'
 )
 #Selecting Required fields from database
 cursor = conn.cursor()
